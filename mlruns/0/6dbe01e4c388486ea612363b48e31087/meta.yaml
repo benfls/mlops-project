@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/T0317216/Documents/training/my_mlops_project/mlruns/0/6dbe01e4c388486ea612363b48e31087/artifacts
+end_time: 1744376677904
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6dbe01e4c388486ea612363b48e31087
+run_name: stylish-koi-456
+run_uuid: 6dbe01e4c388486ea612363b48e31087
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744376677805
+status: 4
+tags: []
+user_id: T0317216

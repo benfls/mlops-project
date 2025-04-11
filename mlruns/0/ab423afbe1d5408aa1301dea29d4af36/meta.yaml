@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/T0317216/Documents/training/my_mlops_project/mlruns/0/ab423afbe1d5408aa1301dea29d4af36/artifacts
+end_time: 1744376649269
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ab423afbe1d5408aa1301dea29d4af36
+run_name: orderly-zebra-878
+run_uuid: ab423afbe1d5408aa1301dea29d4af36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744376649239
+status: 4
+tags: []
+user_id: T0317216

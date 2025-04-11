@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/T0317216/Documents/training/my_mlops_project/mlruns/0/f4563ba583be45b0a8d5bd7e1ae9ad00/artifacts
+end_time: 1744376874702
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f4563ba583be45b0a8d5bd7e1ae9ad00
+run_name: luminous-ant-42
+run_uuid: f4563ba583be45b0a8d5bd7e1ae9ad00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744376874586
+status: 3
+tags: []
+user_id: T0317216
